@@ -10,4 +10,4 @@ int main()
     double c1 = (x + y) / (pow(y,2) + abs(pow(y,2) + 2) / (x + pow(x,3) / 5)) + exp(y + 2);
     cout <<c1;
     return 0;
-}
+}  
