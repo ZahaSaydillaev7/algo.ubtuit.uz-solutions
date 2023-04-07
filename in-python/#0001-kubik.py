@@ -1,3 +1,4 @@
-x = int(input())
-capacity = x**3
-print(capacity)
+# x = int(input())
+# capacity = x**3
+# print(capacity)
+
